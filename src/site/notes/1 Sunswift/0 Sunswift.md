@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-sunswift/0-sunswift/","tags":["gardenEntry"],"created":"2024-07-23T22:19:39.529+10:00","updated":"2024-07-23T23:09:30.673+10:00"}
+{"dg-publish":true,"permalink":"/1-sunswift/0-sunswift/","tags":["gardenEntry"],"created":"2024-07-23T22:19:39.529+10:00","updated":"2024-07-23T23:14:34.755+10:00"}
 ---
 
 # 👋 Welcome!
@@ -16,7 +16,6 @@ These are my notes for Sunswift as part of the Technical Support Systems team.
 - **Telemetry Notes**
 	- [[1 Sunswift/Telemetry Notes/GitHub Wiki Notes\|GitHub Wiki Notes]]
 	- [[1 Sunswift/Telemetry Notes/IOTCore ⁄ Greengrass Connection\|IOTCore ⁄ Greengrass Connection]]
-	- [[1 Sunswift/Telemetry Notes/Setting up AWS\|Setting up AWS]]
 - [[1 Sunswift/Track Day Notes\|Track Day Notes]]
 
 
