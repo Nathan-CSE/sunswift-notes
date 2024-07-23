@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-sunswift/sunswift-remote-app/0-brainstorming/","noteIcon":"","created":"2024-06-28T13:46:19.541+10:00","updated":"2024-07-23T22:08:24.475+10:00"}
+{"dg-publish":true,"permalink":"/1-sunswift/sunswift-remote-app/0-brainstorming/","created":"2024-06-28T13:46:19.541+10:00","updated":"2024-07-23T22:08:24.475+10:00"}
 ---
 
 ### Aim

@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/1-sunswift/0-sunswift/","tags":["gardenEntry"],"noteIcon":"","created":"2024-07-23T22:19:39.529+10:00","updated":"2024-07-23T22:56:04.375+10:00"}
+{"dg-publish":true,"permalink":"/1-sunswift/0-sunswift/","tags":["gardenEntry"],"created":"2024-07-23T22:19:39.529+10:00","updated":"2024-07-23T23:02:18.551+10:00"}
 ---
 
-Hi! These are my notes for Sunswift as part of the Technical Support Systems team. 
+# 👋 Welcome!
+These are my notes for Sunswift as part of the Technical Support Systems team. 
 
+#### Table of Contents
 
 - [[1 Sunswift/1 Progress\|1 Progress]]
 - [[1 Sunswift/Future Project Ideas\|Future Project Ideas]]

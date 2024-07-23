@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-sunswift/1-progress/","noteIcon":"","created":"2024-07-15T23:59:16.500+10:00","updated":"2024-07-23T22:16:02.623+10:00"}
+{"dg-publish":true,"permalink":"/1-sunswift/1-progress/","created":"2024-07-15T23:59:16.500+10:00","updated":"2024-07-23T22:16:02.623+10:00"}
 ---
 
 

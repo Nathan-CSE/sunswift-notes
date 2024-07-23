@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-sunswift/sunswift-fastest-lap-speed/","tags":["excalidraw"],"noteIcon":"","created":"2024-06-26T01:17:31.245+10:00","updated":"2024-07-23T22:16:22.303+10:00"}
+{"dg-publish":true,"permalink":"/1-sunswift/sunswift-fastest-lap-speed/","tags":["excalidraw"],"created":"2024-06-26T01:17:31.245+10:00","updated":"2024-07-23T22:16:22.303+10:00"}
 ---
 
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==

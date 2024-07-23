@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-sunswift/track-day-notes/","noteIcon":"","created":"2024-07-02T20:49:04.606+10:00","updated":"2024-07-23T22:16:34.919+10:00"}
+{"dg-publish":true,"permalink":"/1-sunswift/track-day-notes/","created":"2024-07-02T20:49:04.606+10:00","updated":"2024-07-23T22:16:34.919+10:00"}
 ---
 
 ### Grafana Fixes

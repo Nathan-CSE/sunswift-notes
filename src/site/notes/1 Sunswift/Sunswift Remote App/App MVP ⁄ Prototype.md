@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-sunswift/sunswift-remote-app/app-mvp-prototype/","noteIcon":"","created":"2024-07-15T23:59:16.501+10:00","updated":"2024-07-23T22:13:44.577+10:00"}
+{"dg-publish":true,"permalink":"/1-sunswift/sunswift-remote-app/app-mvp-prototype/","created":"2024-07-15T23:59:16.501+10:00","updated":"2024-07-23T22:13:44.577+10:00"}
 ---
 
 ### MVP Features
