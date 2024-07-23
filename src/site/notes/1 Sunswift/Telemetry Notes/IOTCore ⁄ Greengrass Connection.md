@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-sunswift/telemetry-notes/iot-core-greengrass-connection/"}
+{"dg-publish":true,"permalink":"/1-sunswift/telemetry-notes/iot-core-greengrass-connection/","noteIcon":"","created":"2024-07-02T20:22:29.508+10:00","updated":"2024-07-23T22:15:49.620+10:00"}
 ---
 
 ### [What is AWS IoT?](https://docs.aws.amazon.com/iot/latest/developerguide/what-is-aws-iot.html)
