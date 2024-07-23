@@ -12,44 +12,6 @@ body {
     //  }
 
     nav.filetree-sidebar {
-        top: 85px;
-        left: 20px;
-        position: fixed;
-        height: calc(100% - 160px);
-        display: flex;
-        flex-direction: column;
-        border-radius: 10px;
-        overflow-x: hidden;
-        
-        .search-button {
-          margin: 10px;
-          min-width: 160px;
-          margin-bottom: 20px;
-        }
-        
-        &>.folder {
-          flex: 1;
-          overflow-y: auto;
-          overflow-x: hidden;
-          margin-right: -10px;
-        }
-        
-        .notelink {
-          border-radius: 10px;
-          padding: 5px 0 5px 8px;
-        
-          a::before {
-            margin-right: 2px;
-          }
-        }
-        
-        .notelink.active-note {
-          transform: unset;
-        }
-        
-        .fa-sticky-note {
-          display: none !important;
-        }
         
         h1::before {
           content: " ";
