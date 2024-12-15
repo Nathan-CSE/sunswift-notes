@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-sunswift/telemetry-notes/git-hub-wiki-notes/","created":"2024-06-30T17:23:48.830+10:00","updated":"2024-11-09T14:36:48.860+11:00"}
+{"dg-publish":true,"permalink":"/1-sunswift/telemetry-notes/git-hub-wiki-notes/","created":"2024-06-30T17:23:48.830+10:00","updated":"2024-12-15T22:50:02.455+11:00"}
 ---
 
 ### Sunswift Telemetry Overview

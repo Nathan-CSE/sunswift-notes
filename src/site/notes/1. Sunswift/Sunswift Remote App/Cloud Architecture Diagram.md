@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-sunswift/sunswift-remote-app/cloud-architecture-diagram/","created":"2024-07-22T22:35:27.507+10:00","updated":"2024-07-27T18:08:26.267+10:00"}
+{"dg-publish":true,"permalink":"/1-sunswift/sunswift-remote-app/cloud-architecture-diagram/","created":"2024-07-22T22:35:27.507+10:00","updated":"2024-12-15T22:49:30.371+11:00"}
 ---
 
 - [T2 Planning](https://docs.google.com/document/d/1RJXRiCVt_27EhIYQAgpv9bbyQgl6lvOZI0yVGBZEDr4/edit)
