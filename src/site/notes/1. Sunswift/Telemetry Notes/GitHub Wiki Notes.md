@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-sunswift/telemetry-notes/git-hub-wiki-notes/","created":"2024-06-30T17:23:48.830+10:00","updated":"2024-07-23T22:15:42.016+10:00"}
+{"dg-publish":true,"permalink":"/1-sunswift/telemetry-notes/git-hub-wiki-notes/","created":"2024-06-30T17:23:48.830+10:00","updated":"2024-11-09T14:36:48.860+11:00"}
 ---
 
 ### Sunswift Telemetry Overview
@@ -23,11 +23,11 @@
 	- SQL queries for Grafana -> Timestream
 	- What about authentication, application and network security (AWS, IoTCore, Timestream, EC2, Location Services, CloudWatch, Lambda, Cognito, etc.)?
 
-![architecture.png|overview of the entire telemetry system](/img/user/Images%20&%20Attachments/architecture.png)
+![architecture.png|overview of the entire telemetry system](/img/user/z.%20Images%20&%20Attachments/architecture.png)
 
 ### Telemetry EMBD 'HighLevel' Project
 [GitHub wiki link](https://github.com/UNSW-Sunswift/EMBD-v2-HighLevel/wiki/Telemetry)
-![telem-embd-flow.png|overview of the local telemetry on the car](/img/user/Images%20&%20Attachments/telem-embd-flow.png)
+![telem-embd-flow.png|overview of the local telemetry on the car](/img/user/z.%20Images%20&%20Attachments/telem-embd-flow.png)
 - [Diagram explanation](https://github.com/UNSW-Sunswift/EMBD-v2-HighLevel/wiki/Telemetry#the-iotcore--greengrass-connection):
 	- Direct connection to IoTCore is the easiest way to write to IoTCore -> doesn't depend on the rear escort and can use any 4G connection the local router has
 	- Rear Escort has a solid PtP connection to the Solar Car -> it provides external (Starlink) network to the Solar Car, however it is not guaranteed to be up

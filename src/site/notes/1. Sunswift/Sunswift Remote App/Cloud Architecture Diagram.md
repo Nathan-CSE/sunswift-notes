@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/1-sunswift/sunswift-remote-app/cloud-architecture-diagram/","created":"2024-07-22T22:35:27.507+10:00","updated":"2024-07-23T23:33:37.493+10:00"}
+{"dg-publish":true,"permalink":"/1-sunswift/sunswift-remote-app/cloud-architecture-diagram/","created":"2024-07-22T22:35:27.507+10:00","updated":"2024-07-27T18:08:26.267+10:00"}
 ---
 
 - [T2 Planning](https://docs.google.com/document/d/1RJXRiCVt_27EhIYQAgpv9bbyQgl6lvOZI0yVGBZEDr4/edit)
 	- Diagram link: https://aws.amazon.com/blogs/iot/building-connected-vehicle-solutions-on-the-aws-cloud/
-![connected_vehicle_architecture.png|Create something similar to this?](/img/user/Images%20&%20Attachments/connected_vehicle_architecture.png)
+![connected_vehicle_architecture.png|Create something similar to this?|525](/img/user/z.%20Images%20&%20Attachments/connected_vehicle_architecture.png)
 - Related links:
 	- [[1. Sunswift/Telemetry Notes/GitHub Wiki Notes\|GitHub Wiki Notes]]: General high level notes from the [GitHub wiki](https://github.com/UNSW-Sunswift/SR-Telemetry/wiki/Telemetry:-An-Overview#telemetry)
 		- EMBD 'HighLevel' project -> HighLevel is the name of the actual project not literally "high level"

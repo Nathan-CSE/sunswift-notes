@@ -5,7 +5,7 @@
 ### [What is AWS IoT?](https://docs.aws.amazon.com/iot/latest/developerguide/what-is-aws-iot.html)
 - Provides device software to integrate IoT devices into AWS IoT cloud services
 
-![what-is-aws-iot.png](/img/user/Images%20&%20Attachments/what-is-aws-iot.png)
+![what-is-aws-iot.png](/img/user/z.%20Images%20&%20Attachments/what-is-aws-iot.png)
 
 ### How devices and apps access AWS IoT
 - **[AWS IoT Device SDKs](https://github.com/aws/aws-iot-device-sdk-python-v2)**: Build applications on devices that send messages to and receive messages from AWS IoT
@@ -28,7 +28,7 @@
 	- Components enable users to connect to AWS services and third-party applications at the edge
 - After developing IoT applications, Greengrass allows users to remotely deploy, configure and manage those applications 
 
-![how-it-works.png|not really sure what this diagram means](/img/user/Images%20&%20Attachments/how-it-works.png)
+![how-it-works.png|not really sure what this diagram means](/img/user/z.%20Images%20&%20Attachments/how-it-works.png)
 
 #### [Key Concepts for AWS IoT Greengrass](https://docs.aws.amazon.com/greengrass/v2/developerguide/how-it-works.html#concept-overview)
 ##### AWS IoT Thing

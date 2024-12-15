@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/1-sunswift/track-day-notes/","created":"2024-07-02T20:49:04.606+10:00","updated":"2024-07-23T23:10:40.607+10:00"}
+dg-publish: true
 ---
-
 ### Grafana Fixes
 - Solar current drops in/out
 - Need to double check odometer -> was changing units strangely on track day
@@ -120,3 +119,5 @@ ec9d852de0ff502dd1b1df5b2f319d38e60fbb57: [[Pasted Image 20240624092036_841.png]
 
 
 </div></div>
+
+
